@@ -1,0 +1,9 @@
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\bin\Debug\calculatorpercent.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\bin\Debug\calculatorpercent.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\bin\Debug\calculatorpercent.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.Form1.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.Properties.Resources.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.csproj.GenerateResource.Cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\CalculatorPercent\calculatorpercent\obj\Debug\calculatorpercent.pdb

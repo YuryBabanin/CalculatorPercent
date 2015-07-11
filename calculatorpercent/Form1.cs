@@ -31,7 +31,14 @@ namespace calculatorpercent
                 //Ежемесячный платёж
                 double m = fv / (n * 12);
 
-                MessageBox.Show(String.Format("Будущая сумма кредита: {0} рублей\nВыплата в месяц: {1} рублей", Convert.ToString(fv), Convert.ToString(m)), "Расчет суммы кредита");
+
+                //Выводит меседжбокс по нажатию на кнопку
+                //MessageBox.Show(String.Format("Будущая сумма кредита: {0} рублей\nВыплата в месяц: {1} рублей", Convert.ToString(fv), Convert.ToString(m)), "Расчет суммы кредита");
+
+                label9.Text = Convert.ToString(fv);
+                label11.Text = Convert.ToString(Math.Round(m,2));
+
+
             }
             catch (System.FormatException)
             {
@@ -47,5 +54,7 @@ namespace calculatorpercent
         {
             System.Diagnostics.Process.Start("https://github.com/yurybabanin");
         }
+
+    
     }
 }
