@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -154,11 +155,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(12, 241);
+            this.label8.Location = new System.Drawing.Point(15, 241);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(134, 13);
+            this.label8.Size = new System.Drawing.Size(125, 13);
             this.label8.TabIndex = 12;
-            this.label8.Text = "Будущая сумма кредита:";
+            this.label8.Text = "Общая сумма кредита:";
             // 
             // label9
             // 
@@ -208,6 +209,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Калькулятор";
             this.ResumeLayout(false);
